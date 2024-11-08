@@ -38,3 +38,31 @@ h3 {
   .nav-link { 
       color:#fff;
   }
+
+  #about {
+    padding-top: 65px;
+  }
+
+  #classes{
+    padding-top: 65px;
+  }
+
+  #interests{
+    padding-top: 55px;
+  }
+
+  .Mepic{
+    border: 5px solid#63B7B7;
+    border-radius: 4px;
+  }
+
+  .nav-tabs .nav-link {
+    color: #000; /* Set text color to black or another suitable color */
+    background-color: #fff; /* White background */
+    border: 1px solid lightgray; /* Optional: Add border to match the white background */
+}
+
+.nav-tabs .nav-link:hover {
+    background-color: #f1f1f1; /* Light grey background on hover */
+    color: #000; /* Keep text color dark on hover */
+}
